@@ -2,6 +2,8 @@
 
 This Python script encodes and decodes BIP39 seed phrases into pairs of Unicode Egyptian hieroglyphs. It provides a fun and unique way to represent seed phrases while maintaining compatibility with BIP39 standards.
 
+![glyph](src/img.jpeg)
+
 It was created (as a joke) after [Tuur Demeester posted to twitter](https://twitter.com/TuurDemeester/status/1637114902019014657):
 
 > "Ancient Egyptian titanium tablet, est. 1,400 B.C., speculated to be a 24 word seed phrase."
